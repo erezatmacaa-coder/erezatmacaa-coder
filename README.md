@@ -25,8 +25,14 @@
 <h2 align="center">📊 GitHub İstatistikleri</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erezatmacaa-coder&show_icons=true&theme=transparent&title_color=00d4ff&text_color=e0e0f0&icon_color=8b5cf6&border_color=1a1a2e&hide_border=true&bg_color=0d1117" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erezatmacaa-coder&layout=compact&theme=transparent&title_color=00d4ff&text_color=e0e0f0&border_color=1a1a2e&hide_border=true&bg_color=0d1117" width="340" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erezatmacaa-coder&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erezatmacaa-coder&theme=github_dark" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erezatmacaa-coder&theme=github_dark&utcOffset=3" width="340" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erezatmacaa-coder&theme=github_dark" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erezatmacaa-coder&theme=github_dark" width="340" />
 </p>
 
 <p align="center">
