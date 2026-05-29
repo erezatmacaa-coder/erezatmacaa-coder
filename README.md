@@ -84,6 +84,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erezatmacaa-coder/erezatmacaa-coder/output/github-snake-dark.svg" width="100%" />
+</p>
+
+<br/>
 
 <p align="center">
   ⚡ <i>"Henüz yolun başındayım ama merakım beni ileri taşıyor."</i>
