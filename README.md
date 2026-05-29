@@ -29,6 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erezatmacaa-coder&layout=compact&theme=transparent&title_color=00d4ff&text_color=e0e0f0&border_color=1a1a2e&hide_border=true&bg_color=0d1117" width="340" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=erezatmacaa-coder&theme=darkhub&no-frame=true&no-bg=true&column=-1" width="100%" />
+</p>
+
 <br/>
 
 <h2 align="center">🧠 Kullandığım Teknolojiler</h2>
@@ -49,20 +53,11 @@
 <h2 align="center">📁 Projelerim</h2>
 
 <p align="center">
-  <a href="https://github.com/erezatmacaa-coder/Hardware-Monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=Hardware-Monitor&theme=transparent&title_color=00d4ff&text_color=e0e0f0&border_color=1a1a2e&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/erezatmacaa-coder/codecrew">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=codecrew&theme=transparent&title_color=00d4ff&text_color=e0e0f0&border_color=1a1a2e&hide_border=true&bg_color=0d1117" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/erezatmacaa-coder/studymate-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=studymate-ai&theme=transparent&title_color=00d4ff&text_color=e0e0f0&border_color=1a1a2e&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/erezatmacaa-coder/codeForge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=codeForge&theme=transparent&title_color=00d4ff&text_color=e0e0f0&border_color=1a1a2e&hide_border=true&bg_color=0d1117" />
-  </a>
+  <a href="https://github.com/erezatmacaa-coder/Hardware-Monitor">🔧 <b>Hardware-Monitor</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/erezatmacaa-coder/codecrew">🤖 <b>CodeCrew</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/erezatmacaa-coder/studymate-ai">📚 <b>studymate-ai</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/erezatmacaa-coder/codeForge">⚡ <b>codeForge</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/erezatmacaa-coder/locamo">📍 <b>locamo</b></a>
 </p>
 
 <br/>
