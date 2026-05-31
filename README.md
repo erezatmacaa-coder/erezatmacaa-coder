@@ -95,14 +95,11 @@
   <a href="https://github.com/erezatmacaa-coder/prompt-kutuphanesi/releases/tag/free-sample-pack-v1">
     <img src="https://img.shields.io/badge/🎁%20Free%20Sample-0078D6?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://promptbase.com">
-    <img src="https://img.shields.io/badge/PromptBase-00D4FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <a href="https://erezatmacaa.gumroad.com">
+    <img src="https://img.shields.io/badge/Gumroad-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white" />
   </a>
-  <a href="https://etsy.com">
-    <img src="https://img.shields.io/badge/Etsy-F16521?style=for-the-badge&logo=etsy&logoColor=white" />
-  </a>
-  <a href="https://fiverr.com">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  <a href="https://github.com/erezatmacaa-coder/prompt-kutuphanesi/releases/tag/free-sample-pack-v1">
+    <img src="https://img.shields.io/badge/Free%20Sample-FF6F00?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -120,6 +117,8 @@
 </table>
 
 <p align="center">
+  <a href="https://erezatmacaa.gumroad.com"><b>🛒 Gumroad Mağazam →</b></a>
+  <br/>
   <i>Özel prompt paketi istiyorsan bana ulaş — sana özel hazırlayayım!</i>
 </p>
 
@@ -177,6 +176,9 @@
   </a>
   <a href="https://erezatmacaa-coder.github.io/prompt-kutuphanesi/">
     <img src="https://img.shields.io/badge/Prompt%20K%C3%BCt%C3%BCphanesi-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://erezatmacaa.gumroad.com">
+    <img src="https://img.shields.io/badge/Ma%C4%9Fazam-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white" />
   </a>
 </p>
 
