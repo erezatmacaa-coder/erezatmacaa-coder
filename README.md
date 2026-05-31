@@ -75,48 +75,6 @@
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Money/Glowing%20Star.png" width="30" />
-  AI Prompt Ürünlerim
-</h2>
-
-<p align="center">
-  <b>Prompt Kütüphanesi</b>'nden derlenmiş, test edilmiş premium AI prompt paketleri.
-  <br/>
-  ChatGPT, Claude ve Gemini ile uyumlu — kopyala, yapıştır, kullan.
-</p>
-
-<p align="center">
-  <a href="https://github.com/erezatmacaa-coder/prompt-kutuphanesi/releases/tag/free-sample-pack-v1">
-    <img src="https://img.shields.io/badge/🎁%20Free%20Sample-0078D6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://erezatmacaa.gumroad.com">
-    <img src="https://img.shields.io/badge/Gumroad-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white" />
-  </a>
-  <a href="https://github.com/erezatmacaa-coder/prompt-kutuphanesi/releases/tag/free-sample-pack-v1">
-    <img src="https://img.shields.io/badge/Free%20Sample-FF6F00?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">🖥️ <b>Yazılım Geliştirme</b><br/>12 prompt · $3.99</td>
-    <td align="center">✍️ <b>Yaratıcı Yazarlık</b><br/>10 prompt · $3.99</td>
-    <td align="center">📚 <b>Eğitim</b><br/>10 prompt · $3.99</td>
-  </tr>
-  <tr>
-    <td align="center">💼 <b>İş Hayatı</b><br/>10 prompt · $3.99</td>
-    <td align="center">🌟 <b>Günlük Hayat</b><br/>10 prompt · $3.99</td>
-    <td align="center">📦 <b>Mega Pack</b><br/>52 prompt · $12.99</td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://erezatmacaa.gumroad.com"><b>🛒 Gumroad Mağazam →</b></a>
-  <br/>
-  <i>Özel prompt paketi istiyorsan bana ulaş — sana özel hazırlayayım!</i>
-</p>
-
 <br/>
 
 <h2 align="center">
@@ -171,9 +129,6 @@
   </a>
   <a href="https://erezatmacaa-coder.github.io/prompt-kutuphanesi/">
     <img src="https://img.shields.io/badge/Prompt%20K%C3%BCt%C3%BCphanesi-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
-  <a href="https://erezatmacaa.gumroad.com">
-    <img src="https://img.shields.io/badge/Ma%C4%9Fazam-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white" />
   </a>
 </p>
 
