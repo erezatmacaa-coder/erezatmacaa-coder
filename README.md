@@ -65,14 +65,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="400" colspan="2">
       <a href="https://github.com/erezatmacaa-coder/studymate-ai">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=studymate-ai&theme=dark&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=00d4ff" />
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/erezatmacaa-coder/site">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=site&theme=dark&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=00d4ff" />
       </a>
     </td>
   </tr>
