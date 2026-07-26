@@ -9,10 +9,7 @@
 
 ---
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" />
-  Hakkımda
-</h2>
+<h2 align="center">👨‍💻 Hakkımda</h2>
 
 <p align="center">
   Lise öğrencisiyim ve yapay zekaya büyük bir ilgi duyuyorum.
@@ -28,10 +25,7 @@
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30" />
-  Öne Çıkan Projeler
-</h2>
+<h2 align="center">⭐ Öne Çıkan Projeler</h2>
 
 <p align="center">
   <a href="https://github.com/erezatmacaa-coder/prompt-kutuphanesi">
@@ -49,10 +43,7 @@
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" />
-  GitHub İstatistikleri
-</h2>
+<h2 align="center">📊 GitHub İstatistikleri</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erezatmacaa-coder&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=true&count_private=true" height="165" />
@@ -65,10 +56,7 @@
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30" />
-  Kullandığım Teknolojiler
-</h2>
+<h2 align="center">🧰 Kullandığım Teknolojiler</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -87,10 +75,7 @@
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="30" />
-  Bağlantılar
-</h2>
+<h2 align="center">🔗 Bağlantılar</h2>
 
 <p align="center">
   <a href="https://sameterezatmaca.com">
