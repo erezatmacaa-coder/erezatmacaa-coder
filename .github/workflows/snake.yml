@@ -14,13 +14,8 @@ jobs:
         with:
           github_user_name: erezatmacaa-coder
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: actions/upload-artifact@v4
+            output/github-snake-dark.svg?palette=github-dark
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: snake
-          path: dist
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          destination_dir: output
+          commit_message: "chore: update snake SVG"
+          file_pattern: output/*.svg

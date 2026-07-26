@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Samet+Erez+Atmaca;AI+Ka%C5%9Fifi+%7C+Gelece%C4%9Fi+Kodlayan;S%C3%BCrekli+%C3%96%C4%9Frenen+%7C+Problem+%C3%87%C3%B6z%C3%BCc%C3%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Samet+Erez+Atmaca;AI+Ka%C5%9Fifi+%7C+Gelece%C4%9Fi+Kodlayan;S%C3%BCrekli+%C3%96%C4%9Frenen+%7C+Problem+%C3%87%C3%B6z%C3%BCc%C3%BC" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,30 +19,12 @@
   AI araçlarını kullanarak projeler geliştiriyor, her gün yeni şeyler öğreniyorum.
 </p>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="20" />
-      <b>AI Kullanımı</b>
-      <br/>Prompt engineering,<br/>AI araçları ile üretim
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" />
-      <b>Python</b>
-      <br/>Temel düzey,<br/>AI destekli kodlama
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Asia-Australia.png" width="20" />
-      <b>Web</b>
-      <br/>HTML/CSS, JavaScript,<br/>Flet ile arayüz
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="20" />
-      <b>Merak & Öğrenme</b>
-      <br/>En güçlü yeteneğim!
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <b>💡 AI Kullanımı</b> — Prompt engineering, AI araçları ile üretim &nbsp;&nbsp;
+  <b>⚙️ Python</b> — Temel düzey, AI destekli kodlama &nbsp;&nbsp;
+  <b>🌏 Web</b> — HTML/CSS, JavaScript, Flet ile arayüz &nbsp;&nbsp;
+  <b>🚀 Merak & Öğrenme</b> — En güçlü yeteneğim!
+</p>
 
 <br/>
 
@@ -51,27 +33,17 @@
   Öne Çıkan Projeler
 </h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <a href="https://github.com/erezatmacaa-coder/prompt-kutuphanesi">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=prompt-kutuphanesi&theme=dark&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=00d4ff" />
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/erezatmacaa-coder/Hardware-Monitor">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=Hardware-Monitor&theme=dark&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=00d4ff" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="400" colspan="2">
-      <a href="https://github.com/erezatmacaa-coder/studymate-ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=studymate-ai&theme=dark&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=00d4ff" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/erezatmacaa-coder/prompt-kutuphanesi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=prompt-kutuphanesi&theme=dark&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=00d4ff" height="120" />
+  </a>
+  <a href="https://github.com/erezatmacaa-coder/Hardware-Monitor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=Hardware-Monitor&theme=dark&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=00d4ff" height="120" />
+  </a>
+  <a href="https://github.com/erezatmacaa-coder/studymate-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erezatmacaa-coder&repo=studymate-ai&theme=dark&bg_color=0d1117&border_color=00d4ff30&icon_color=00d4ff&title_color=00d4ff" height="120" />
+  </a>
+</p>
 
 <br/>
 
@@ -121,7 +93,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://erezatmacaa-coder.github.io/site/">
+  <a href="https://sameterezatmaca.com">
     <img src="https://img.shields.io/badge/Portfolyo-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/erezatmacaa-coder">
